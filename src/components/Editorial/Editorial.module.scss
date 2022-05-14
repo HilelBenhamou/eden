@@ -1,0 +1,45 @@
+.container{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.editoContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+
+    @media (max-width: 1024px){
+        grid-template-columns: 1fr;
+    }
+}
+
+.title{
+    text-align: left;
+    font-size: 22px;
+    // padding-bottom: 20px;
+    font-weight: 500;
+    letter-spacing: .66px;
+    color: #0f0e0e;
+}
+.buttonMoreContainer{
+    display: flex;
+    justify-content: end;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    @media(max-width: 1024px){
+        display: none;
+    }
+
+}
+
+.buttonMore{
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 10px 35px;
+    border: 1px solid #707070;
+    @media(max-width: 1024px){
+        display: none;
+    }
+}

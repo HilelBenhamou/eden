@@ -1,0 +1,68 @@
+
+.carouselContainer{
+    // position: relative;
+}
+.buttons{
+    display: flex;
+    justify-content: end;
+}
+.btnBack, .btnNext{
+    background-color: transparent;
+    border: none;
+    // position: absolute;
+    bottom: 340px;
+    right: 0;
+}
+.btnBack{
+    margin-right: 30px;
+}
+
+.stepContainer{
+    // position: absolute;
+    right: 0;
+    bottom: 300px;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 0%;
+    margin-bottom: 1rem;
+    margin-left: 0%;
+    list-style: none;
+}
+
+.step{
+    border: none;
+    background-color: none;
+    width: 100%;
+    background-color: #000;
+    margin-right: 0;
+    margin-left: 0;
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    height: 4px;
+    padding: 0;
+    text-indent: -999px;
+    cursor: pointer;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: 0.5;
+    transition: opacity .6s ease;
+}
+.buttonMore{
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 10px 35px;
+    border: 1px solid #707070;
+    float: right;
+}
+.carouselSlide{
+    /* width: 29% !important; */
+    padding-bottom: 910px !important;
+    /* transform: translateX(-28%) translateX(0px); */
+  }

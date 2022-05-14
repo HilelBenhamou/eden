@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+
+    @media(max-width: 1024px){
+        display: none;
+    }
+}
+
+.searchContainer{
+    position: relative;
+}
+
+.searchInput{
+    font-size: 15px;
+    color: #767676;
+    padding: 10px 12px;
+    background-color: #f6f6f6;
+    outline: 0;
+    border: none;
+    width: 395px;
+    
+    margin-right: 30px;
+}
+.searchLogo{
+    position: absolute;
+    right: 10%;
+    top: 30%;
+    height: 15px;
+    margin-right: 21px;
+}
+
+.wishlist{
+    margin-right: 60px;
+    height: 18px;
+}
+
+.shopOnline{
+    text-align: left;
+    font-size: 18px;
+    font-family: assistant,sans-serif!important;
+    letter-spacing: .18px;
+    color: #0f0e0e;
+    text-transform: capitalize;
+    opacity: 1;
+}

@@ -1,0 +1,50 @@
+
+.container{
+    padding-top: 270px;
+    color: #fff;
+    background-color: #00000030;
+    padding-left: 0;
+    padding-right: 0;
+    padding-left: 28.63px;
+    // height: 490px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    background-image: url(https://srv-1.eden-gallery.com/2022/03/31/62458f414d8b1-Dubai3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 60px;    
+}
+
+.title{
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    color: #fff;
+    // text-transform: capitalize;
+    opacity: 1;
+    margin-top: 6px;
+}
+
+.text{
+    text-align: left;
+    margin-top: 4px;
+}
+
+.btn{
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    background-color: #00000080;
+    border: 1px solid #fff;
+    padding: 5px 30px;
+    border-radius: 3px;
+    color: white;
+    margin-top: 20px;
+
+    @media(max-width: 1024px){
+        display: none;
+    }
+}

@@ -1,0 +1,103 @@
+.artistsDesktop{
+    margin-bottom: 120px;
+
+    @media(max-width:1024px){
+        display: none;
+    }
+}
+
+.title{
+    text-align: left;
+    font-size: 22px;
+    padding-bottom: 20px;
+    font-weight: 500;
+    letter-spacing: .66px;
+    color: #0f0e0e;
+}
+.stepContainer{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.step{
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 3px;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+    background-color: #000;
+}
+.buttonMoreContainer{
+    display: flex;
+    justify-content: end;
+    // position: absolute;
+    // top: 1890px;
+    // width: 92.5%;
+
+}
+.buttonMore{
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 10px 35px;
+    border: 1px solid #707070;
+    // width: 233px;
+}
+
+.artistsMobileContainer{
+    display: none;
+    @media(max-width:1024px){
+        display: block;
+    }
+}
+.artistsMobile{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 35px;
+    row-gap: 35px;
+}
+.artistItemMobile{
+    color: #fff;
+    // width: 48%;
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    // margin-bottom: 4%;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.allArtist{
+    background-color: #000;
+    color: #fff;
+    border-radius: 3px;
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 200;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+
+.divider-mob{
+    margin-bottom: 50px;
+}
+
+.carouselArtists{
+    padding-bottom: 700px !important;
+}

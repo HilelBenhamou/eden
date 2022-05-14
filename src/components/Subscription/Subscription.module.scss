@@ -1,0 +1,96 @@
+
+.container{
+    background-image: url(https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/05/31104049/background-newsletter.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-top: 30px;
+}
+
+.subtitle{
+    margin-top: 10px;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+.inputContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    @media(max-width: 1260px){
+        grid-template-columns: 1fr;
+    }
+}
+.inputFirst{
+    margin-right: 25px;
+    background-color: #fff;
+    font-size: 15px;
+    color: #767676;
+    padding: 10px 12px;
+    border-radius: 3px;
+    text-align: left;
+    font-weight: 200;
+    border: none;
+    margin-bottom: 20px;
+
+    @media (max-width: 1260px){
+        margin-right: 0;
+    }
+}
+.input{
+    background-color: #fff;
+    font-size: 15px;
+    color: #767676;
+    padding: 10px 12px;
+    border-radius: 3px;
+    text-align: left;
+    font-weight: 200;
+    border: none;
+    margin-bottom: 20px;
+}
+.form{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 32%;
+    padding-right: 32%;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+
+    @media(max-width: 1260px){
+        padding-left: 17%;
+        padding-right: 17%;
+        margin: initial;;
+    }
+}
+
+.btnContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 70px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 200;
+    border: none;
+    border-radius: 3px;
+    text-transform: capitalize;
+    cursor: pointer;
+    // width: 232px;
+    margin-top: 20px;
+}
