@@ -1,0 +1,61 @@
+https://www.eden-gallery.com/assets/images/icon-heart.svg (Heart)
+https://www.eden-gallery.com/assets/images/icon-share.svg (Share)
+
+https://www.eden-gallery.com/assets/images/search icon.svg (search icon)
+
+https://www.eden-gallery.com/assets/img/eden_logo_red.svg (EDEN LOGO)
+https://www.eden-gallery.com/assets/images/logo-red.svg (desktop logo eden)
+
+import InstagramIcon from '@mui/icons-material/Instagram';
+import FacebookIcon from '@mui/icons-material/Facebook';
+import YouTubeIcon from '@mui/icons-material/YouTube';
+import TwitterIcon from '@mui/icons-material/Twitter';
+import PinterestIcon from '@mui/icons-material/Pinterest';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+
+Drawer hamburger mobile https://mui.com/material-ui/react-drawer/
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/08/16142735/soho.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/08/16144949/mad.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/08/16145434/aspen.jpg
+https://srv-1.eden-gallery.com/2022/01/26/61f16813c79e8-Miami-Gallery-3.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/08/16145635/london.jpg
+https://srv-1.eden-gallery.com/2022/03/15/62306ac2e922c-Dubai.jpg
+
+Responsive:
+a partir de 1024px desktop, en dessous mobile
+
+First part: from carousel to on image
+Collections: from list components to carousel
+
+1er carousel
+https://srv-1.eden-gallery.com/2022/05/11/627ba2c1e5ce1-Desktop-1.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/14/2021/10/18102321/artworks-1.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/14/2021/10/18140634/collections-1-2.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/14/2021/10/18102319/desktop-_-home-pageartist-2.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/14/2021/10/19101930/WhatsApp-Image-2021-10-19-at-13.18.33.jpeg
+
+2eme carousel
+
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12090511/desktop-_-home-pagealec-monopoly.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12081456/desktop-_-home-pageangelo-accardi-1.jpg
+https://srv-1.eden-gallery.com/2022/03/24/623c4c876c490-772x772px.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12085937/desktop-_-home-pagedavid-kracov.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12081042/desktop-_-home-pagekobra-1.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12085858/desktop-_-home-pagedorit-levinstein-2.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12095005/desktop-_-new-website_12.07.2021yoel-benharrouche.jpg
+
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12081858/desktop-_-home-pagesn.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12090437/desktop-_-home-pagecalman-shemi-1.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12085641/desktop-_-home-pagefg.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12095453/desktop-_-new-website_12.07.2021fred-allard.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12083648/desktop-_-home-pageplum-.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12084237/desktop-_-home-pagemetis-atash-1.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12083617/desktop-_-home-pagerandy-cooper-1.jpg
+
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12095441/desktop-_-new-website_12.07.2021daniel-gastaud.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12084334/desktop-_-home-pagemarco-battaglini.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12085015/desktop-_-home-pagejonty-1.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12095453/desktop-_-new-website_12.07.2021fred-allard.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12083648/desktop-_-home-pageplum-.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12084237/desktop-_-home-pagemetis-atash-1.jpg
+https://srv-2.eden-gallery.com/wp-content/uploads/sites/15/2021/07/12083617/desktop-_-home-pagerandy-cooper-1.jpg
